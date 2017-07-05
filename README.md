@@ -12,9 +12,10 @@ There are a couple of ways to set up a Snazzie website. [Manually](https://githu
 
 Getting started with Snazzie is easy to use in just a few simple steps.
 
-1. Make sure that you have [Gulp](http://gulpjs.com/), [Slush](http://slushjs.github.io/#/), [gulp-template](https://www.npmjs.com/package/gulp-template), and this generator installed globally on your system.
+1. Make sure that you have [Slush](http://slushjs.github.io/#/) and this generator installed globally on your system.
 2. On the command line, create a directory for your new project and cd into it. (`mkdir [YOUR PROJECT NAME] && cd [YOUR PROJECT NAME]`).
-3. run `slush snazzie-generator` on the command line in your new repository and answer all the questions provided.
+3. Run `slush snazzie-generator` on the command line in your new repository and answer all the questions provided.
+4. You will note that there will be an error after doing this on the command line, ignore it.  Once the generator has run, type in `npm i gulp gulp-template`.  This will solve that error.
 
 That's it!
 
