@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "A Static Site Generator With Gulp",
   "scripts": {
+    "setup": "npm i gulp gulp-template",
     "start": "gulp watch",
     "build": "gulp build",
     "deploy": "gulp deploy",
