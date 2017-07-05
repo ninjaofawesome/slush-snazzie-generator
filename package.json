@@ -1,7 +1,7 @@
 {
     "name": "slush-snazzie-generator",
     "description": "a quick scaffolding generator that publishes to github",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "homepage": "https://github.com/ninjaofawesome/slush-snazzie-generator",
     "author": {
         "name": "Hannah Nordgren",
@@ -21,7 +21,8 @@
         "npm": ">=1.4.3"
     },
     "scripts": {
-        "test": "echo \"No tests\""
+        "test": "echo \"No tests\"",
+        "setup": "npm i gulp gulp-template"
     },
     "dependencies": {
         "slush": ">=1.0.0",
