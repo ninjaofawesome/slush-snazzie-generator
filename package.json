@@ -1,7 +1,7 @@
 {
   "name": "slush-snazzie-generator",
   "description": "a quick scaffolding generator that publishes to github",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "homepage": "https://github.com/ninjaofawesome/slush-snazzie-generator",
   "author": {
     "name": "Hannah Nordgren",
@@ -35,10 +35,12 @@
     "iniparser": "^1.0.5"
   },
   "keywords": [
-    "slushgenerator"
-  ],
-  "devDependencies": {
-    "gulp": "^3.9.1",
-    "gulp-templates": "0.0.1"
-  }
+    "slushgenerator",
+    "slush",
+    "scaffolding",
+    "html",
+    "scss",
+    "less",
+    "stylus"
+  ]
 }
