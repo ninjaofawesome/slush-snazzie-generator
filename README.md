@@ -21,7 +21,7 @@ That's it!
 
 ## OK great.  Now how do I use this?
 
-All the directions for getting started with Snazzie and customizing your setup are [here](http://hereshannahs.info/snazzie_site/).
+All the directions for getting started with Snazzie and customizing your setup are [here](http://snazziewebsite.com/).
 
 ## I still have questions about Snazzie or Snazzie Generator.  Who can I contact?
 
