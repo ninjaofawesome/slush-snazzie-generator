@@ -17,7 +17,7 @@ Getting started with Snazzie is easy to use in just a few simple steps.
 3. Run `slush snazzie-generator` on the command line in your new repository and answer all the questions provided.
 4. Once the generator has installed the files, initialize your new project by typing in `npm init` while in the same directory.  Be sure to change the name of your project to that of your directory name and start the versioning at 0.0.1
 
-**Please note: *** If you are using any version before Snazzie Generator 0.2.2, please update your globally installed package as the initialize bug has now been fixed.  Documentation on that [here](https://docs.npmjs.com/getting-started/updating-global-packages).
+**Please note:** If you are using any version before Snazzie Generator 0.2.2, please update your globally installed package as the initialize bug has now been fixed.  Documentation on that [here](https://docs.npmjs.com/getting-started/updating-global-packages).
 
 That's it!
 
