@@ -1,7 +1,7 @@
 {
   "name": "slush-snazzie-generator",
   "description": "a quick scaffolding generator that publishes to github",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "homepage": "https://github.com/ninjaofawesome/slush-snazzie-generator",
   "author": {
     "name": "Hannah Nordgren",

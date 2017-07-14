@@ -15,7 +15,9 @@ Getting started with Snazzie is easy to use in just a few simple steps.
 1. Make sure that you have [Slush](http://slushjs.github.io/#/) and this generator installed globally on your system.
 2. On the command line, create a directory for your new project and cd into it. (`mkdir [YOUR PROJECT NAME] && cd [YOUR PROJECT NAME]`).
 3. Run `slush snazzie-generator` on the command line in your new repository and answer all the questions provided.
-4. You will note that there will be an error after doing this on the command line, ignore it.  Once the generator has run, type in `npm i gulp gulp-template`.  This will solve that error.
+4. Once the generator has installed the files, initialize your new project by typing in `npm init` while in the same directory.  Be sure to change the name of your project to that of your directory name and start the versioning at 0.0.1
+
+**Please note: *** If you are using any version before Snazzie Generator 0.2.2, please update your globally installed package as the initialize bug has now been fixed.  Documentation on that [here](https://docs.npmjs.com/getting-started/updating-global-packages).
 
 That's it!
 
